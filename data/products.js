@@ -88,6 +88,7 @@ const object3 = {
 };
 object3.method();
 */
+//^^ This is practise code
 
 export const products = [
   {
