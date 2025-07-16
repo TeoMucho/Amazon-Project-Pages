@@ -24,4 +24,3 @@ console.log(Toyota.getDetails(),',',
 Tesla.getDetails());
 
 
-
